@@ -1,0 +1,21 @@
+/workspace
+├─ app/
+│  └─ streamlit_app.py
+├─ src/
+│  ├─ audio/
+│  │  ├─ __init__.py
+│  │  └─ feature_extraction.py
+│  ├─ models/
+│  │  ├─ __init__.py
+│  │  └─ baseline.py
+│  └─ plots/
+│     ├─ __init__.py
+│     └─ plots.py
+├─ data/
+│  └─ .gitkeep
+├─ models/
+│  └─ .gitkeep
+├─ notebooks/
+│  └─ .gitkeep
+├─ requirements.txt
+└─ README.md
